@@ -1,0 +1,6 @@
+{
+  "name": "Control de Inventario Empresarial",
+  "description": "Sistema completo de gestión y control de inventario empresarial con control de almacenes, alertas de stock bajo, historial de movimientos y reportes analíticos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
